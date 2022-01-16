@@ -1,5 +1,5 @@
 # ChatControlsFallout4Key
-A table of things chat can make happen in my Fallout 4
+A table of things chat can make happen in my Fallout 4. Points are given per minute watched, subscription, gift subscription, and bit. To check the amount of points you have, use `#points`
 
 ### Spawn
 ##### Syntax
