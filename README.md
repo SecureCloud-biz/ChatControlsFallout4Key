@@ -10,19 +10,41 @@ A table of things chat can make happen in my Fallout 4. Points are given per min
 #### Available Commands
 | Command | Points | Game Code | Number Spawned | Spawns In Interior? |
 | ------- | ------ | --------- | -------------- | ------------------- |
+|bloatfly| 20 |29469| 1 | true |
+|bloodbug| 25 |1423b4| 1 | true |
 |ghoul| 50 |758ad| 1 | true |
 |ghoul_pack| 250 |758ad| 5 | true |
+|supermutant| 125 |1a00c| 1 | true |
+|rotting_ghoul| 50 |7ed07| 1 | true |
+|raider| 100 |20749| 1 | true |
+|raider_squad| 200 |20749| 5 | true |
+|synth| 100 |3d029| 1 | true |
+|synth_squad| 200 |3d029| 5 | true |
+|synth_virus| 100 |176140| 1 | true |
+|bos| 25 |769fc| 1 | true |
+|gunner| 100 |fd3a1| 1 | true |
+|gunner_squad| 200 |fd3a1| 5 | true |
+|mirelurk| 75 |24002| 1 | true |
+|mirelurk_hunter| 150 |64c5e| 1 | true |
 |deathclaw| 250 |1db4c| 1 | false |
 |deathclaw_pack| 205 |1db4c| 5 | true |
 |alpha_deathclaw| 250 |1423a7| 1 | false |
 |molerat| 5 |1d966| 1 | true |
 |molerat_pack| 45 |1d966| 5 | true |
 |mirelurk_queen| 750 |e12ab| 1 | false |
+|mirelurk_king| 300 |b7f95| 1 | false |
+|radscorpion| 300 |ff000a0c| 1 | false |
+|deathskull_radscorpion| 350 |00115ea8| 1 | false |
+|radstag| 1 |8ca3c| 1 | false |
+|brahmin| 1 |20480| 1 | false |
+|behemoth| 900 |bb7dd| 1 | false |
 |glowing_one| 150 |20bcc| 1 | true |
 |bloated_glowing_one| 250 |a0eee| 1 | true |
 |quantum_deathclaw| 100 |00d325| 1 | false |
 |albino_angler| 25 |009585| 1 | false |
+|radroach| 4 |475df| 1 | true |
 |swarmbot| 25 |00101d| 1 | true |
+|yoa_guai| 175 |295a0| 1 | false |
 
 ### Weather
 ##### Syntax
