@@ -1,7 +1,20 @@
 # ChatControlsFallout4Key
 A table of things chat can make happen in my Fallout 4. Points are given per minute watched, subscription, gift subscription, and bit. To check the amount of points you have, use `#points`
 
-### Spawn
+## Table of contents
+- [How points are earned](#how-points-are-earned)
+- [Spawn](#spawn)
+- [Weather](#weather)
+- [Items](#items)
+- [Misc](#misc)
+
+## How points are earned
+- Minutes watched (2 per minute)
+- Subscriptions (500 points)
+- Gift Subscription (500 points)
+- Bits (10 per bit)
+
+## Spawn
 ##### Syntax
 `#spawn <entity>`
 ##### Example
@@ -46,7 +59,7 @@ A table of things chat can make happen in my Fallout 4. Points are given per min
 |swarmbot| 25 |00101d| 1 | true |
 |yoa_guai| 175 |295a0| 1 | false |
 
-### Weather
+## Weather
 ##### Syntax
 `#weather <condition>`
 ##### Example
@@ -60,7 +73,7 @@ A table of things chat can make happen in my Fallout 4. Points are given per min
 |fh_fog| 150 |009962|
 |radstorm| 200 |1C3D5E|
 
-### Items
+## Items
 ##### Syntax
 `#give <item>`
 ##### Example
@@ -69,6 +82,7 @@ A table of things chat can make happen in my Fallout 4. Points are given per min
 #### Available Commands
 | Command | Points | Game Code |
 | ------- | ------ | --------- |
+|bottlecap| 1 |0000000f|
 |nuka_cola| 15 |0004835d|
 |nuka_quantum| 100 |0004835f|
 |nuka_cherry| 45 |48360|
@@ -141,7 +155,7 @@ A table of things chat can make happen in my Fallout 4. Points are given per min
 |missile| 50 |caba3|
 |cannonball| 35 |fd11c|
 
-### Misc
+## Misc
 ##### Syntax
 `#misc <condition>`
 ##### Example
